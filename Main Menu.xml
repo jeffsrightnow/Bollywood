@@ -2,7 +2,7 @@
 
 
 <item>
-<title>[COLOR purple]Bombay Movies By 2016[/COLOR]</title>
+<title>[COLOR turquoise]Bombay Movies By 2016[/COLOR]</title>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Bombay_Talkies_2013_Film.jpg/220px-Bombay_Talkies_2013_Film.jpg</thumbnail>
 <fanart></fanart>
 <link>https://raw.githubusercontent.com/jeffsrightnow/Bollywood/master/Main%20Menu.xml</link>
@@ -10,7 +10,7 @@
 </item>
 
 <item>
-<title>[COLOR purple]Bombay Movies By 2015[/COLOR]</title>
+<title>[COLOR turquoise]Bombay Movies By 2015[/COLOR]</title>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Bombay_Talkies_2013_Film.jpg/220px-Bombay_Talkies_2013_Film.jpg</thumbnail>
 <fanart></fanart>
 <link>https://raw.githubusercontent.com/jeffsrightnow/Bollywood/master/Main%20Menu.xml</link>
@@ -18,9 +18,17 @@
 </item>
 
 <item>
-<title>[COLOR purple]Bombay Movies Most Popular[/COLOR]</title>
+<title>[COLOR turquoise]Bombay Movies Most Popular[/COLOR]</title>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Bombay_Talkies_2013_Film.jpg/220px-Bombay_Talkies_2013_Film.jpg</thumbnail>
 <fanart></fanart>
 <link>https://raw.githubusercontent.com/jeffsrightnow/Bollywood/master/Main%20Menu.xml</link>
 <externallink>https://raw.githubusercontent.com/jeffsrightnow/Bollywood/master/2014.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR turquoise]Support Kextreme Facebook[/COLOR]</title>
+<thumbnail>http://hairbykimbatiz.com/images/fb-metro.png</thumbnail>
+<fanart></fanart>
+<link>plugin://plugin.video.youtube/play/?video_id=i5ICyyV6s6g</link>
+<externallink></externallink>
 </item>
